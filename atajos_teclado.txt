@@ -1,0 +1,13 @@
+cd.. #Vuelve a carpeta anterior en terminal
+ls -> Te muestra todo lo que hay en el lugar que estas alojado en ese momento
+ctrl + k + s. Guarda los cambios
+mayus flecha arriba busca las ultimas rutas
+
+Alumno con un constructor __init__ para inicializar los atributos nombre y nota. 
+También has agregado el método __str__ que te permite personalizar 
+cómo se muestra la representación en cadena del objeto.
+
+Abriendo un TXT. Variable llamada f
+la W como argumento sobreescribe lo ya escrito. 
+la A agrega a lo ya escrito en el txt.
+la R pasada como argumento, hace que la variable pueda traer los datos ingresados. con la nueva "variable" = f.read

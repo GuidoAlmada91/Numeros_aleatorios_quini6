@@ -1,0 +1,9 @@
+setup.py
+TuModeloDeClientes+Almada/__init__.py
+TuModeloDeClientes+Almada/clientes.py
+TuModeloDeClientes+Almada/menu.py
+TuModeloDeClientes+Almada/productos.py
+TuModeloDeClientes_Almada.egg-info/PKG-INFO
+TuModeloDeClientes_Almada.egg-info/SOURCES.txt
+TuModeloDeClientes_Almada.egg-info/dependency_links.txt
+TuModeloDeClientes_Almada.egg-info/top_level.txt

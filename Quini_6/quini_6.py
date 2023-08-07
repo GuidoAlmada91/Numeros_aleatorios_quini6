@@ -2,7 +2,7 @@ import random
 
 numeros_aleatorios = []
 while len(numeros_aleatorios) < 6:
-    quini = random.randrange(1, 46)
+    quini = random.randrange(1, 47)
     if quini not in numeros_aleatorios:
         numeros_aleatorios.append(quini)
 
