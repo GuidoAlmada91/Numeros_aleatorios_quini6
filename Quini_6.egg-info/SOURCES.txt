@@ -1,7 +1,0 @@
-setup.py
-Quini_6.egg-info/PKG-INFO
-Quini_6.egg-info/SOURCES.txt
-Quini_6.egg-info/dependency_links.txt
-Quini_6.egg-info/top_level.txt
-quini_6/__init__.py
-quini_6/quini_6.py
